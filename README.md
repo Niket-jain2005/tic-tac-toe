@@ -4,7 +4,7 @@ A simple Tic Tac Toe game made using **HTML, CSS and JavaScript**.
 
 ## Live Demo
 
-👉 [Play Tic Tac Toe](https://niket-jain2005.github.io/tic-tac-toe/?utm_source=chatgpt.com)
+👉 [Play Tic Tac Toe](https://niket-jain2005.github.io/tic-tac-toe/)
 
 ## Features
 
